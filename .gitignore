@@ -37,3 +37,4 @@ scripts/ci/gcp-creds.json
 .gcp-creds.json
 
 *~
+root_key
